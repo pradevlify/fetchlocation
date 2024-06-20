@@ -1,0 +1,1 @@
+This application helps to give location of user which is created in Kotlin. from kotlin app it sends the current location and from backend it recieves the latitude and longitude and shows that cordinates on google map using react.
